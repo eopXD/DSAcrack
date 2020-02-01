@@ -1,8 +1,3 @@
-'''
-Created on 15.01.2013
-
-@author: martin
-'''
 from Crypto.Random import random
 from Crypto.PublicKey import DSA
 from Crypto.PublicKey.pubkey import bignum,inverse
